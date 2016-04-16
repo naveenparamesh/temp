@@ -1,0 +1,5 @@
+test the getter and setters for respective classes x 2
+test the constructors for each of the classes x 2
+test movement of Attackers x bounderary cases x 2
+
+
